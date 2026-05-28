@@ -1,0 +1,6 @@
+{
+  "name": "VoltGuard Eco",
+  "description": "Aplikasi penghemat daya baterai dengan alarm Autocut cerdas, kustomisasi ambang batas pengisian, riwayat pengisian daya, dan dukungan webhook untuk stopkontak IoT pintar (Smart Plug) guna pemutusan aliran listrik fisik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

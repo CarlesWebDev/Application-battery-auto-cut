@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Battery Case -->
+    <path
+        android:pathData="M38,34h32c2.2,0 4,1.8 4,4v34c0,2.2 -1.8,4 -4,4h-32c-2.2,0 -4,-1.8 -4,-4v-34c0,-2.2 1.8,-4 4,-4z"
+        android:strokeColor="#00E676"
+        android:strokeWidth="4"
+        android:fillColor="#1A00E676" />
+        
+    <!-- Battery Cap -->
+    <path
+        android:pathData="M48,26h12v8h-12z"
+        android:fillColor="#00E676" />
+
+    <!-- Smart Circuit Safe Shield outline back glow -->
+    <path
+        android:pathData="M22,24h64v60h-64z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1"
+        android:strokeAlpha="0.3"
+        android:fillColor="#00000000" />
+
+    <!-- Glowing Charge Lightning Bolt inside battery -->
+    <path
+        android:pathData="M56,40 L44,54 h8 L50,70 L64,52 h-8 Z"
+        android:fillColor="#00E5FF" />
+</vector>
